@@ -1,0 +1,4 @@
+delaunay20_100b_1_1
+delaunay20_100b_1_2
+grid10_100b_1_1
+grid10_100b_1_2
